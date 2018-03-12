@@ -5,7 +5,10 @@ using UnityEngine;
 public class PlayerManager : MonoBehaviour
 {
     public float speed = 10f;
-
+    public int life = 5;
+    public bool weap1;
+    public bool weap2;
+    
     //vars for the whole sheet
     public int colCount = 3;
     public int rowCount = 3;
@@ -94,6 +97,7 @@ public class PlayerManager : MonoBehaviour
 
         if (collision.gameObject.tag == "Enemy")
         {
+
         }
     }
 
