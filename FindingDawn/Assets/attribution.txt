@@ -1,0 +1,178 @@
+Title:
+	Bat sprite
+
+Author:
+	bagzie
+
+URL:
+	https://opengameart.org/content/bat-sprite
+
+License(s):
+	* OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Files:
+	* 32x32-bat-sprite.png
+
+
+
+Title:
+    Bat (32x32)
+
+Author:
+    MoikMellah
+
+URL:
+    https://opengameart.org/content/bat-32x32
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * bat.32x32.gif
+    * bat.32x32.xcf
+
+
+
+Title:
+    3/4 view beetle
+
+Author:
+    Stephen Challener (Redshrike), hosted by OpenGameArt.org
+
+URL:
+    https://opengameart.org/content/34-view-beetle
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+File(s):
+    * manaworldbeetle1.png
+
+
+
+Title:
+    LPC beetle
+
+Author:
+    Stephen Challener (Redshrike), hosted by OpenGameArt.org
+
+URL:
+    https://opengameart.org/content/lpc-beetle
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+File(s):
+    * beetle5.PNG
+
+
+
+Title:
+	Sewer tileset
+
+Author:
+	Art by MrBeast. Commissioned by OpenGameArt.org (http://opengameart.org)
+
+URL:
+	https://opengameart.org/content/sewer-tileset
+
+License(s):
+	* CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+	* GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+	* sewer_1.png
+
+
+
+Title:
+	Objects for 16x16 tilesets
+
+Author:
+	Art by MrBeast. Commissioned by OpenGameArt.org (http://opengameart.org)
+
+URL:
+	https://opengameart.org/content/objects-for-16x16-tilesets
+
+License(s):
+	* CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+	* GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+	* objects.png
+
+
+
+Title:
+	Dungeon tileset
+
+Author:
+	Buch http://blog-buch.rhcloud.com
+
+URL:
+	https://opengameart.org/content/dungeon-tileset
+
+License(s):
+	* CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+	* dungeon_tiles.png
+
+
+
+Title:
+	Dungeon tileset
+
+Author:
+	2DPIXX
+
+URL:
+	https://opengameart.org/content/dungeon-tileset-2
+
+License(s):
+	* CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+	* 2dpixx_ccart_dungeon_tiles.tar.gz
+
+
+
+Title:
+	spikes
+
+Author:
+	k-skills
+
+URL:
+	https://opengameart.org/content/spikes-0
+
+License(s):
+	* CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+	* spike-animation.png
+
+
+
+Title:
+	Barrels (Mage City Arcanos Rework)
+
+Author:
+	Jordan Irwin (AntumDeluge)
+
+Collaborators:
+	Hyptosis
+	isaiah658
+
+URL:
+	https://opengameart.org/content/barrels-mage-city-arcanos-rework
+
+License(s):
+	* CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+	* barrels-1.0-2.zip
