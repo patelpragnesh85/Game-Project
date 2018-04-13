@@ -287,6 +287,7 @@
   <ItemGroup>
     <Compile Include="Assets\Dungeon Art Pack\AnimateSprite.cs" />
     <Compile Include="Assets\Scripts\CameraScript.cs" />
+    <Compile Include="Assets\Scripts\CameraScriptUnclamped.cs" />
     <Compile Include="Assets\Scripts\EnemyManager.cs" />
     <Compile Include="Assets\Scripts\PlayerManager.cs" />
   </ItemGroup>
