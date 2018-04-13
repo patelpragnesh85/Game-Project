@@ -176,3 +176,20 @@ License(s):
 
 File(s):
 	* barrels-1.0-2.zip
+
+
+Title:
+	Boulder
+
+Author:
+	Jordan Irwin (AntumDeluge)
+
+URL:
+	https://opengameart.org/content/boulder
+
+License(s):
+	* CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+	* OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+File(s):
+	* boulder.zip
