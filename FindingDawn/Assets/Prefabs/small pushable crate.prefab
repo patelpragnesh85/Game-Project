@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 212014221446212132}
   - component: {fileID: 50763891611157504}
   - component: {fileID: 61714891632661830}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: small pushable crate
   m_TagString: crate
   m_Icon: {fileID: 0}
